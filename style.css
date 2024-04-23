@@ -1,0 +1,76 @@
+*{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 110px;
+    margin-top: 7.5rem;
+    
+}
+#p{
+    text-align:right;
+    font-size: 20px;
+    margin-right: 14.5rem;
+    height: 10px;
+    line-height:0;
+    font-weight: lighter;
+    margin-top: 0;
+}
+main{
+    text-align: center;
+    margin-top: 2.9rem;
+}
+#text{
+    height: 30px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+#submit{
+    height:30px;
+    border-radius: 5px;
+    color:aliceblue;
+    background-color:#383734;
+    transition: all 0.2s ease;
+}
+#submit:active{
+    transform:scale(0.96);
+}
+p{
+    text-align: center;
+    font-size: x-small;
+    margin-top: 8rem;
+
+}
+/* a{
+    text-decoration: none;
+    color:aliceblue;
+    background-color:#383734;
+
+} */
+
+/* second file */
+h2{
+    text-align: center;
+    font-size: 70px;
+}
+.button{
+    border: 3px solid black;
+    height: 40px;
+    width:  110px;
+    margin-top: 6.5rem;
+    margin-right: 5rem;
+    margin-left: 0.5rem;
+    border-top-left-radius: 9px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.button:hover{
+    box-shadow: 0 0 5px rgb(216, 9, 116);
+}
+div{
+    background-color: rgb(213, 207, 237);
+    height:50px ;
+
+}
